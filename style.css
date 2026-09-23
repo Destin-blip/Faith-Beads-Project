@@ -605,8 +605,14 @@ nav img{
     }
     
 
+<<<<<<< HEAD
 
 
+=======
+@media screen and (max-width: 800px) {
+
+    /* NAVBAR */
+>>>>>>> 372524bad7079fdc27a35012e93e492585a03a71
     nav {
         padding: 10px 20px;
         flex-wrap: wrap;
@@ -724,6 +730,10 @@ nav img{
     }
 
 
+<<<<<<< HEAD
+=======
+    /* PRODUCT CONTAINER */
+>>>>>>> 372524bad7079fdc27a35012e93e492585a03a71
     .product-container {
         grid-template-columns: 1fr 1fr;
         column-gap: 20px;
@@ -752,3 +762,7 @@ nav img{
         padding: 9px;
     }
 }
+<<<<<<< HEAD
+=======
+}
+>>>>>>> 372524bad7079fdc27a35012e93e492585a03a71
